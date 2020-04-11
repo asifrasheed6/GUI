@@ -1,4 +1,3 @@
-# Welcome to my CMP 256 Repository!
 My codes from GUI Design and Programming with Dr. Michel Pasquier
 
 You could download the entire repository as [zip](https://github.com/asifrasheed6/CMP-256-Codes/archive/master.zip) or if you are looking for something specific, please refer the links below:
