@@ -26,4 +26,4 @@ You could download the entire repository as [zip](https://github.com/asifrasheed
 <H5><a href='Game of Life.jar' download>Click here for the Jar File</a></H5>
 
 
-Please note that downloading any content from this repository shall be considered as an agreement to the terms and conditions specified by the [software license](https://raw.githubusercontent.com/asifrasheed6/CMP-256-Codes/master/LICENSE)
+Please note that downloading any content from this repository shall be considered as an agreement to the terms and conditions specified by the <a href='LICENSE'>software license</a>
